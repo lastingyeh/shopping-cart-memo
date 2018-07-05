@@ -10,6 +10,16 @@
 
     3. arrow-function > (callback use)
 
+    4. destructuring > (function params use, declare variables,...)
+
+#### How to Run
+
+    1. $npm install 
+
+    2. add data to product model
+
+    3. try it.
+
 #### References
 
 [1. NodeJS Shopping Cart](https://www.youtube.com/playlist?list=PL55RiY5tL51rajp7Xr_zk-fCFtzdlGKUp)
